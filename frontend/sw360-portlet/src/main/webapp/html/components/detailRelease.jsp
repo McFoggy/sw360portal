@@ -1,5 +1,3 @@
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@ page import="org.eclipse.sw360.portal.portlets.Sw360Portlet" %>
 <%--
   ~ Copyright Siemens AG, 2013-2016. Part of the SW360 Portal Project.
   ~
